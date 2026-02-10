@@ -25,3 +25,13 @@ To run unit tests, run:
 ```bash
 cargo test
 ```
+
+### Publishing
+
+Publishing is done using [`maturin`](https://www.maturin.rs/).
+
+To install `maturin`, install the Python requirements:
+
+```bash
+pip install -r requirements.txt
+```
