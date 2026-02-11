@@ -13,7 +13,19 @@ TODO
 
 ## Installation
 
-TODO
+sshez is available on [PyPI](https://pypi.org/project/sshez/).
+
+You can install it using your preferred Python package manager. For example, using `uv`:
+
+```bash
+uv tool install sshez
+```
+
+To upgrade:
+
+```bash
+uv tool update sshez
+```
 
 ## Contributing
 
